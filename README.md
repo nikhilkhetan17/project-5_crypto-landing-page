@@ -22,7 +22,7 @@
 
 ## 📌 Time Taken To Complete This Project:
 
-- ### It took me 2.5 hours to complete this project
+- ### It took me 2 hours to complete this project
 
 <br>
 
